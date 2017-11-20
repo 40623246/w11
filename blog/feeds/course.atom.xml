@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/feeds/course.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623246/doc/trunk/blog/</id><updated>2017-11-06T14:50:00+08:00</updated><entry><title>計算機程式期中考</title><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/40623246-w9.html" rel="alternate"></link><published>2017-11-06T14:50:00+08:00</published><updated>2017-11-06T14:50:00+08:00</updated><author><name>40623246</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623246/doc/trunk/blog/40623246-w9.html</id><summary type="html">&lt;p&gt;期中考&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/feeds/course.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623246/doc/trunk/blog/</id><updated>2017-11-20T14:50:00+08:00</updated><entry><title>計算機程式第11週學習心得</title><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/40623246-w11.html" rel="alternate"></link><published>2017-11-20T14:50:00+08:00</published><updated>2017-11-20T14:50:00+08:00</updated><author><name>40623246</name></author><id>tag:cpb.kmol.info,2017-11-20:/40623246/doc/trunk/blog/40623246-w11.html</id><summary type="html">&lt;p&gt;w11&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w11&lt;/p&gt;
+</content><category term="2017fall"></category></entry><entry><title>計算機程式第10週學習心得</title><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/40623246-w10.html" rel="alternate"></link><published>2017-11-13T14:50:00+08:00</published><updated>2017-11-13T14:50:00+08:00</updated><author><name>40623246</name></author><id>tag:cpb.kmol.info,2017-11-13:/40623246/doc/trunk/blog/40623246-w10.html</id><summary type="html">&lt;p&gt;修改隨身系統&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;修改隨身系統&lt;/p&gt;
+
+
+&lt;p&gt;軟體下載
+Dia pottable、GIMP Portable、PCT Creo 4&lt;/p&gt;
+&lt;p&gt;修改隨身系統,使其開啟時個人Leo也開啟&lt;/p&gt;
+&lt;p&gt;*1.將star.bat拉進SciTE修改,將REM及\apps刪除,並將資料夾改成正確的.&lt;/p&gt;
+&lt;p&gt;*2.將launchLeo.py拉進SciTE修改,將()內輸入正確的資料夾順序.&lt;/p&gt;
+&lt;p&gt;用 Eric6 完成計算機對話框所需按鍵的配置, 使用格點佈局, 設定 Dialog, pressButton 與 lineEdit 物件的尺寸大小, 命名物件, 設定 clicked 與 connect 方法.&lt;/p&gt;</content><category term="2017fall"></category></entry><entry><title>計算機程式期中考</title><link href="https://cpb.kmol.info/40623246/doc/trunk/blog/40623246-w9.html" rel="alternate"></link><published>2017-11-06T14:50:00+08:00</published><updated>2017-11-06T14:50:00+08:00</updated><author><name>40623246</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623246/doc/trunk/blog/40623246-w9.html</id><summary type="html">&lt;p&gt;期中考&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中考&lt;/p&gt;
 
 
